@@ -3,6 +3,9 @@
 ## Overview
 This project involves designing and creating a custom ergonomic mouse shell using **OnShape** and **3D printing**. The goal is to build a functional, comfortable mouse tailored to your own hand shape while integrating the provided [Bambu mouse kit components](https://bambulab.com).
 
+Link to OnShape
+https://cad.onshape.com/documents/4d7fae580f9d36f1b8d69d28/w/4fc8de8b225f30ffa203a078/e/fccf16958c161c0df016afa9?renderMode=0&uiState=69ff9f7208654a0ddc4c2a19
+
 *   **Skills used:** CAD, 3D design, basic mechanical design
 <img width="1082" height="687" alt="image" src="https://github.com/user-attachments/assets/e89c1fce-402a-4516-8cb0-5186b6fb6fbd" />
 
@@ -34,7 +37,6 @@ This project involves designing and creating a custom ergonomic mouse shell usin
 
 ## Tools & Materials
 *   **[OnShape]([https://onshape.com](https://cad.onshape.com/documents/4d7fae580f9d36f1b8d69d28/w/4fc8de8b225f30ffa203a078/e/fccf16958c161c0df016afa9))** (CAD software)
-* https://cad.onshape.com/documents/4d7fae580f9d36f1b8d69d28/w/4fc8de8b225f30ffa203a078/e/fccf16958c161c0df016afa9?renderMode=0&uiState=69ff9f7208654a0ddc4c2a19
 *   **[Bambu mouse kit](https://bambulab.com)** (PCB, wheel, screws, etc.)
 *   **3D printer**
 *   **Filament** (PLA or similar)
