@@ -34,6 +34,7 @@ This project involves designing and creating a custom ergonomic mouse shell usin
 
 ## Tools & Materials
 *   **[OnShape]([https://onshape.com](https://cad.onshape.com/documents/4d7fae580f9d36f1b8d69d28/w/4fc8de8b225f30ffa203a078/e/fccf16958c161c0df016afa9))** (CAD software)
+* https://cad.onshape.com/documents/4d7fae580f9d36f1b8d69d28/w/4fc8de8b225f30ffa203a078/e/fccf16958c161c0df016afa9?renderMode=0&uiState=69ff9f7208654a0ddc4c2a19
 *   **[Bambu mouse kit](https://bambulab.com)** (PCB, wheel, screws, etc.)
 *   **3D printer**
 *   **Filament** (PLA or similar)
